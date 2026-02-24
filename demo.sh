@@ -4,3 +4,4 @@ echo "Running on $(hostname)"
 date
 echo "This is a change for the Jenkins SCM Schedule check"
 echo "This is a change for the pipeline check"
+echo "This is a test"
