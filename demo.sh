@@ -2,3 +2,4 @@
 echo "Hello from GitHub!"
 echo "Running on $(hostname)"
 date
+echo "This is a change for the Jenkins SCM Schedule check"
